@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apply</name>
+   <tag></tag>
+   <elementGuidId>09efa553-82af-4c57-9304-7ff06f08a342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;action_import&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog_1']/div/div/div/footer/footer/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e86bc69d-0ae0-4e62-9546-6f650e7fa3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>ec142af1-b2d3-40c0-84e6-2a318cc756e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog_1&quot;)/div[@class=&quot;modal d-block o_technical_modal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content ui-draggable&quot;]/footer[@class=&quot;modal-footer justify-content-around justify-content-sm-start flex-wrap gap-1&quot;]/footer[1]/div[2]/button[@class=&quot;btn btn-primary&quot;]/span[1]</value>
+      <webElementGuid>6cd78b27-aad4-44e0-9a6f-0122c98f8064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog_1']/div/div/div/footer/footer/div[2]/button/span</value>
+      <webElementGuid>8a3d470e-7d67-4b68-9ab4-c1a9a34af7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel file'])[1]/following::span[1]</value>
+      <webElementGuid>23690485-5169-4a37-b5e2-d41537995db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Sample :'])[1]/following::span[1]</value>
+      <webElementGuid>affb2418-fdb0-4513-b746-438d69796bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>e54ee96c-be8b-450e-898e-0df948498b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[1]/preceding::span[2]</value>
+      <webElementGuid>2c8eb597-08e8-4d11-a7dc-4809982f7ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <webElementGuid>c0ba89ef-09f2-45c3-a5a3-8322b4cf9415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/button/span</value>
+      <webElementGuid>4d256482-54c5-42c1-bf10-014e0f41a2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>7dab677a-6e4f-484a-b290-5c4dc3d7a80a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

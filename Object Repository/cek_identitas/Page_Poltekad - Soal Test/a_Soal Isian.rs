@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Soal Isian</name>
+   <tag></tag>
+   <elementGuidId>7f2d5897-18c3-4187-899d-9046f09f02a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.o_dropdown_menu_group_entry.focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Soal Isian')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>597211b8-4b2e-4966-b777-17bbb6a181c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item o_dropdown_menu_group_entry focus</value>
+      <webElementGuid>11a7caa0-cb66-4073-afff-2a6fdfe7caaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>76260e68-6c43-4437-a213-f506574ece5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c00ccaa5-869f-46ce-8544-8117cdfd6eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#menu_id=214&amp;action=274</value>
+      <webElementGuid>c6e640f8-553e-45bb-a8ce-9c137d32ffd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-xmlid</name>
+      <type>Main</type>
+      <value>cdn_penilaian_cbt.cdn_penilaian_cbt_penilian_ujian_isian_menu</value>
+      <webElementGuid>3a32f695-b050-4a2a-8fae-a9ca4e705197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-section</name>
+      <type>Main</type>
+      <value>214</value>
+      <webElementGuid>5f051a32-1e29-4ecb-96af-a1c19326992f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Soal Isian</value>
+      <webElementGuid>0177b719-552d-4dbf-b39d-1841900d6d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/header[@class=&quot;o_navbar&quot;]/nav[@class=&quot;o_main_navbar&quot;]/div[@class=&quot;o_menu_sections d-none d-md-flex flex-grow-1 flex-shrink-1&quot;]/div[@class=&quot;o-dropdown dropdown o-dropdown--no-caret show&quot;]/div[@class=&quot;o-dropdown--menu dropdown-menu d-block&quot;]/a[@class=&quot;dropdown-item o_dropdown_menu_group_entry focus&quot;]</value>
+      <webElementGuid>ed625239-b94d-465f-ad50-efe280722702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Soal Isian')]</value>
+      <webElementGuid>18ec837d-28e9-4b59-a939-dee01b6affbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soal Pilihan'])[1]/following::a[1]</value>
+      <webElementGuid>e4bc6611-149d-458d-bc17-97a4f8b7424c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian Ujian'])[1]/following::a[2]</value>
+      <webElementGuid>e7e4002b-1034-4571-82dc-6e330244836f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Akhir'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fd20d64-a1c9-49e6-a6c2-35191c989688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riza Hasbi, S.T.'])[1]/preceding::a[4]</value>
+      <webElementGuid>ed88a3fb-0448-4f55-be99-1f2fdf728b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Soal Isian']/parent::*</value>
+      <webElementGuid>82de9ca4-7737-4542-8ad6-c18e64e6004d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#menu_id=214&amp;action=274')]</value>
+      <webElementGuid>0f251863-62d8-4963-b3f9-2823f6509e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>3d852332-a424-4e84-adbd-d239aa486a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#menu_id=214&amp;action=274' and (text() = 'Soal Isian' or . = 'Soal Isian')]</value>
+      <webElementGuid>acee712d-f6bd-4230-8afa-b6aca4a31506</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

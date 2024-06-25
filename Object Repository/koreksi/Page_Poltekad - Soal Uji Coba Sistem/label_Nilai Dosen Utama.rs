@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nilai Dosen Utama</name>
+   <tag></tag>
+   <elementGuidId>133f9ca9-aea6-4cce-8288-16030a607555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o_form_nosheet.form-detail.o_form_editable.d-block.o_form_saved > div.o_group.row.align-items-start > div.o_inner_group.grid.col-lg-6 > div.o_wrap_field.d-flex.d-sm-contents.flex-column.mb-3.mb-sm-0 > div.o_cell.flex-grow-1.flex-sm-grow-0.o_wrap_label.w-100.text-break.text-900 > label.o_form_label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog_1']/div/div/div/main/div/div[3]/div[2]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>940195ba-3e8e-4ef0-b747-b163c6d0094f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_form_label</value>
+      <webElementGuid>a719af7f-a204-43fd-9d65-ea5f1b7e4d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>score_dosen</value>
+      <webElementGuid>dbad7951-3c7c-4b8e-9104-ebac922507ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nilai Dosen Utama</value>
+      <webElementGuid>28bab4fe-c0e8-4dfb-a951-68de51a32d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog_1&quot;)/div[@class=&quot;modal d-block o_technical_modal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content o_form_view ui-draggable&quot;]/main[@class=&quot;modal-body p-0&quot;]/div[@class=&quot;o_form_nosheet form-detail o_form_editable d-block o_form_saved&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell flex-grow-1 flex-sm-grow-0 o_wrap_label w-100 text-break text-900&quot;]/label[@class=&quot;o_form_label&quot;]</value>
+      <webElementGuid>a5ab3c50-febb-4037-924b-48349f43ec83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog_1']/div/div/div/main/div/div[3]/div[2]/div/div/label</value>
+      <webElementGuid>ca6ff65b-60c8-4900-b8b0-66efe72964f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penilaian'])[1]/following::label[1]</value>
+      <webElementGuid>c935a4b6-996b-4100-9941-7fe73a0188d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kunci Jawaban'])[1]/following::label[1]</value>
+      <webElementGuid>696c4ca0-3732-4bc6-8c09-a4441d119067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Dosen Cadangan'])[2]/preceding::label[1]</value>
+      <webElementGuid>c60c6675-a23d-4771-aac3-4bd009e2ba6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skor Akhir'])[1]/preceding::label[2]</value>
+      <webElementGuid>c5841ef4-4dd9-4cfc-bd11-66ca42b88ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/label</value>
+      <webElementGuid>6c355044-c06e-48fc-8a8c-a9f7a76d2ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nilai Dosen Utama' or . = 'Nilai Dosen Utama')]</value>
+      <webElementGuid>0b340600-702c-418c-99d8-6c67ad010742</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

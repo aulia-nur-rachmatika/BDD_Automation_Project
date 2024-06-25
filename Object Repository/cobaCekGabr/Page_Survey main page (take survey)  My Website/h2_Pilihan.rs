@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Pilihan</name>
+   <tag></tag>
+   <elementGuidId>655ecc16-7f8e-44c6-87d2-79c76a70dd38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.o_survey_title.pb16.text-break</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8aa099d5-f8bf-4440-a5ea-86260e07c8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_survey_title pb16 text-break</value>
+      <webElementGuid>5b8387c6-39ef-407b-818d-c7d44ceca541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilihan</value>
+      <webElementGuid>b429dfca-15da-45b2-98e8-266036b1d2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapwrap&quot;)/main[1]/div[@class=&quot;wrap o_survey_wrap d-flex&quot;]/div[@class=&quot;container o_survey_form d-flex flex-column mb-5&quot;]/form[@class=&quot;d-flex flex-grow-1 align-items-center&quot;]/div[@class=&quot;o_survey_form_content w-100&quot;]/h2[@class=&quot;o_survey_title pb16 text-break&quot;]</value>
+      <webElementGuid>42ecf25d-bc84-402d-ab44-1c34997d84f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      <webElementGuid>0602452b-ddc1-4b59-9416-757141b6b998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uraian'])[1]/following::h2[1]</value>
+      <webElementGuid>7680d2b4-4a3f-4171-a961-8bbc1cd1195e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isian'])[1]/following::h2[1]</value>
+      <webElementGuid>010d3e59-3ef2-498e-b80f-5d84e17063ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='suatu operasi yang dengan munculnya teknologi baru pada mesin'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3517b4a1-b921-40ac-93a4-c1c3a12eca31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>54181e17-8ebe-4bbf-a3b8-f0ef42ec3b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Pilihan' or . = 'Pilihan')]</value>
+      <webElementGuid>2940f307-6edd-45a0-abf5-073516e5212d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

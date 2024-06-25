@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_completed_progress-bar bg-primary</name>
+   <tag></tag>
+   <elementGuidId>f909ef9a-05b4-4a30-ba0a-36b66e11fd57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.progress-bar.bg-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapwrap']/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3af33b7a-a89b-4bed-a78e-3421e41e6090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>progress-bar bg-primary</value>
+      <webElementGuid>b4c71243-a108-4d9e-a36d-7d2b2fc81b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapwrap&quot;)/div[@class=&quot;py-3 m-0 p-0 text-end&quot;]/div[@class=&quot;o_survey_progress_wrapper d-inline-block pe-1 text-start&quot;]/div[@class=&quot;o_survey_progress progress flex-grow-1&quot;]/div[@class=&quot;progress-bar bg-primary&quot;]</value>
+      <webElementGuid>b521104f-aa53-4ad2-ae52-63259ee9f870</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapwrap']/div[2]/div/div/div</value>
+      <webElementGuid>43f9a8f1-c415-452b-a7ec-240ecfbea701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div[2]/div/div/div</value>
+      <webElementGuid>61ca6c4b-7715-48bf-9f1a-d4c4d017621a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Unggah file Anda</name>
+   <tag></tag>
+   <elementGuidId>ceebed81-c893-4b4c-b03a-a19c1ca183c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.o_select_file_button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog_1']/div/div/div/main/div/div/div/div/div/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b02979c1-89e4-4305-bced-8ea6b9a338ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_select_file_button btn btn-primary</value>
+      <webElementGuid>99837be2-6d9c-44c1-ab29-790faa47581b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Unggah file Anda </value>
+      <webElementGuid>aab8cdf1-7e84-4d26-91ee-bf57241b8199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog_1&quot;)/div[@class=&quot;modal d-block o_technical_modal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content ui-draggable&quot;]/main[@class=&quot;modal-body p-0 o_act_window&quot;]/div[@class=&quot;o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_nosheet o_form_editable d-block&quot;]/div[@class=&quot;o_inner_group grid&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell o_wrap_input flex-grow-1 flex-sm-grow-0 text-break&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_binary&quot;]/label[@class=&quot;o_select_file_button btn btn-primary&quot;]</value>
+      <webElementGuid>937be94c-695a-4a52-9bf0-5e0f279aae61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog_1']/div/div/div/main/div/div/div/div/div/div/div[2]/div/label</value>
+      <webElementGuid>a7d9c82a-9f81-47ed-baf7-d06b0860fea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[1]/following::label[1]</value>
+      <webElementGuid>58cbe735-49ce-4b92-a99f-e8379884badb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::label[2]</value>
+      <webElementGuid>7370a5bd-4799-4fd1-bc28-e438b607fedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='esc'])[1]/preceding::label[1]</value>
+      <webElementGuid>179afe42-fe56-41b8-b408-508667525ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div/div/div[2]/div/label</value>
+      <webElementGuid>1d9046ac-f58b-4810-b665-67f701a83358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Unggah file Anda ' or . = ' Unggah file Anda ')]</value>
+      <webElementGuid>0334e1cb-e8fb-4429-8875-7e72ce821e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

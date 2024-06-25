@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Pilihan</name>
+   <tag></tag>
+   <elementGuidId>8081acc2-7c9a-4843-b094-65ee2874882c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.o_survey_title.pb16.text-break</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d3e0cbd0-229c-4677-92bc-e5e3fc417021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_survey_title pb16 text-break</value>
+      <webElementGuid>7da0c4f2-fc52-4af6-8480-dc86bcab3b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilihan</value>
+      <webElementGuid>3688826f-2ea1-4890-a578-a95907fc8ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapwrap&quot;)/main[1]/div[@class=&quot;wrap o_survey_wrap d-flex&quot;]/div[@class=&quot;container o_survey_form d-flex flex-column mb-5&quot;]/form[@class=&quot;d-flex flex-grow-1 align-items-center&quot;]/div[@class=&quot;o_survey_form_content w-100&quot;]/h2[@class=&quot;o_survey_title pb16 text-break&quot;]</value>
+      <webElementGuid>84cdc5a1-4874-4fdf-a0b5-cdedb3f71681</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      <webElementGuid>9498cc53-da32-4460-9712-5c31eb80138b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uraian'])[1]/following::h2[1]</value>
+      <webElementGuid>6783392b-4111-422c-83bc-62d18cfe3be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isian'])[1]/following::h2[1]</value>
+      <webElementGuid>cae097c6-d7c9-495f-bef1-9530f8099637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kemampuan mengukur keluaran'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3b0f713e-56c4-4a39-a880-2189528d2093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>2375f8cf-aec6-4cf9-a315-89636ee385b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Pilihan' or . = 'Pilihan')]</value>
+      <webElementGuid>f6743cd5-966e-41df-9c90-eb9fa33d3263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

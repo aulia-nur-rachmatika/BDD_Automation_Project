@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_18122023 180902</name>
+   <tag></tag>
+   <elementGuidId>b9ceadc0-6e90-47c1-826e-aa130b825b55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;create_date&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@name='create_date']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fd01facb-12ed-4791-85c1-f21bb9927310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_data_cell cursor-pointer o_field_cell o_readonly_modifier</value>
+      <webElementGuid>dec53880-503b-4ebe-a5b2-60999062b30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip-delay</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>c7318f03-5263-4362-8c1f-d1eb023b5f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>78d8a2be-f849-40ab-8cc6-01b28fa0fd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>create_date</value>
+      <webElementGuid>afdeb902-2408-4649-9b9b-1ee9f64ad296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18/12/2023 18:09:02</value>
+      <webElementGuid>dc33c2cc-4cb9-42aa-afff-40a0939747aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_list_view&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_grouped&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row text-muted table-info o_data_row_selected&quot;]/td[@class=&quot;o_data_cell cursor-pointer o_field_cell o_readonly_modifier&quot;]</value>
+      <webElementGuid>6eb22b5a-469d-4445-92f0-a78ad19ea076</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@name='create_date']</value>
+      <webElementGuid>c5afe47a-dde9-406b-8f0b-b04423c26e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[2]</value>
+      <webElementGuid>3dafdd5c-a7d5-4beb-9100-1da030500c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soal Uji Coba Sistem'])[1]/preceding::td[1]</value>
+      <webElementGuid>adc56ff4-dfae-482a-971f-04ce3432ced5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/preceding::td[6]</value>
+      <webElementGuid>6a26c460-2346-492a-8331-a007131ad563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='18/12/2023 18:09:02']/parent::*</value>
+      <webElementGuid>e764361a-dd48-44ee-996e-b23041b27f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>172225c1-13d6-4bd3-a71f-ec2768b91c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@name = 'create_date' and (text() = '18/12/2023 18:09:02' or . = '18/12/2023 18:09:02')]</value>
+      <webElementGuid>3e349d52-f750-4b0a-8a3f-742bf7da5660</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

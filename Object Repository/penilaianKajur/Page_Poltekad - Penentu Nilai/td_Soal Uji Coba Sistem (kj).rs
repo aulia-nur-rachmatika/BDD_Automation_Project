@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Soal Uji Coba Sistem (kj)</name>
+   <tag></tag>
+   <elementGuidId>442a69b2-e115-4d7b-b608-fe8f2da9529e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td[name=&quot;survey_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@name='survey_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0223ce28-5a2c-4a95-abc6-37c075069e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_data_cell cursor-pointer o_field_cell o_list_many2one o_required_modifier o_readonly_modifier</value>
+      <webElementGuid>995bd927-47d9-4390-b80f-f82649c179f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip-delay</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>b16365a0-7099-484f-8ed7-af36d8e45791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f9639419-3c5e-440c-9f25-2e63430e1330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>survey_id</value>
+      <webElementGuid>33fdf733-ee51-4cc4-83c8-f0f7bcd61375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip</name>
+      <type>Main</type>
+      <value>Soal Uji Coba Sistem (kj)</value>
+      <webElementGuid>0bf6b2c9-f017-4689-819e-f0f32f7861cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Soal Uji Coba Sistem (kj)</value>
+      <webElementGuid>b9e45f82-ca25-45e3-9249-545637289a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_list_view&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_grouped&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row text-muted&quot;]/td[@class=&quot;o_data_cell cursor-pointer o_field_cell o_list_many2one o_required_modifier o_readonly_modifier&quot;]</value>
+      <webElementGuid>192f6ce5-27f3-4185-839a-2363651a82df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@name='survey_id']</value>
+      <webElementGuid>3b858dc2-6ef0-4bae-a638-8eaa774b06bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[3]</value>
+      <webElementGuid>6f157724-d27e-4ed6-b22b-7025a861962f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desainer Web'])[1]/preceding::td[1]</value>
+      <webElementGuid>c752b5be-ef78-43fd-bca1-6ac6f427c37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aulianurrachmatika02@gmail.com'])[1]/preceding::td[2]</value>
+      <webElementGuid>a04c7f9c-4558-47a3-8a62-5728a387c913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>baa5f245-e4fa-4226-ae4a-a22645ca4bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@name = 'survey_id' and (text() = 'Soal Uji Coba Sistem (kj)' or . = 'Soal Uji Coba Sistem (kj)')]</value>
+      <webElementGuid>71005c0e-216f-47ef-96e2-58297a9f9305</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

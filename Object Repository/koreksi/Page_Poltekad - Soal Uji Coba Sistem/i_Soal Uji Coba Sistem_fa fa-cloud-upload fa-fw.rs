@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Soal Uji Coba Sistem_fa fa-cloud-upload fa-fw</name>
+   <tag></tag>
+   <elementGuidId>2765e297-2140-47b1-a9b4-36dae07f66f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-cloud-upload.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b415a62b-ad01-4941-9e18-1ed2d35d5295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cloud-upload fa-fw</value>
+      <webElementGuid>9f72383e-0c5d-4004-affb-5b627bc0d39b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_control_panel&quot;]/div[@class=&quot;o_cp_top&quot;]/div[@class=&quot;o_cp_top_left d-flex flex-grow-1 align-items-center&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;breadcrumb-item active d-flex align-items-center&quot;]/div[@class=&quot;o_form_status_indicator d-md-flex ms-md-1&quot;]/div[@class=&quot;o_form_status_indicator_buttons d-flex&quot;]/button[@class=&quot;o_form_button_save btn btn-light py-0&quot;]/i[@class=&quot;fa fa-cloud-upload fa-fw&quot;]</value>
+      <webElementGuid>770b91ad-5ac2-4127-90b2-3949f1a0db0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/button/i</value>
+      <webElementGuid>389a0091-e236-4ba7-9f06-e9c15ff26c82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

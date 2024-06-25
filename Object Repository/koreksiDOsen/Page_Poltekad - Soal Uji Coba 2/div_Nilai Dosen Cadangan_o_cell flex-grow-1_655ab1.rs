@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nilai Dosen Cadangan_o_cell flex-grow-1_655ab1</name>
+   <tag></tag>
+   <elementGuidId>fdad6ac5-5a75-420a-9183-1ab8498ddbbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog_3']/div/div/div/main/div/div[3]/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcb4f016-f2d4-48ea-9929-636a12bd1ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_cell flex-grow-1 flex-sm-grow-0</value>
+      <webElementGuid>b870638a-6896-48e3-9bba-963304955de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog_3&quot;)/div[@class=&quot;modal d-block o_technical_modal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content o_form_view ui-draggable&quot;]/main[@class=&quot;modal-body p-0&quot;]/div[@class=&quot;o_form_nosheet form-detail o_form_editable d-block o_form_dirty&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell flex-grow-1 flex-sm-grow-0&quot;]</value>
+      <webElementGuid>3b92af48-670e-45c7-8569-0068f5565d0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog_3']/div/div/div/main/div/div[3]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>8551ae24-be62-42c6-9380-3fe3f8b0813a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Dosen Cadangan'])[2]/following::div[1]</value>
+      <webElementGuid>094413a2-3836-4f82-be3f-1d7b56a091bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Dosen Utama'])[2]/following::div[6]</value>
+      <webElementGuid>bba7cbe5-100e-437a-a945-ac479e8a72c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skor Akhir'])[1]/preceding::div[2]</value>
+      <webElementGuid>321065d7-07fb-4d66-b903-fbef23b4ba19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buka: Detail Pertanyaan'])[2]/preceding::div[7]</value>
+      <webElementGuid>f3dae7b6-2538-44ea-8b6c-adaf61b95764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>3a9eca3f-0399-4c5e-a237-7bedd43c9781</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

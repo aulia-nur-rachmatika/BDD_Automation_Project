@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dipersembahkan oleh_fa fa-chevron-left p-2</name>
+   <tag></tag>
+   <elementGuidId>61d6d7d7-6245-459d-ac9a-bd7a6904c5c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-left.p-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapwrap']/div[2]/div[2]/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fa8ffb83-a33f-49f9-b8a3-af3f44b2913a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-left p-2</value>
+      <webElementGuid>56f1c433-efc9-4d49-8ccf-8969e723eca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapwrap&quot;)/div[@class=&quot;py-3 m-0 p-0 text-end&quot;]/div[@class=&quot;o_survey_brand_message float-end rounded me-3 border&quot;]/div[@class=&quot;o_survey_navigation_wrapper d-inline-block&quot;]/button[@class=&quot;btn border-start p-0 shadow-none o_survey_navigation_submit&quot;]/i[@class=&quot;fa fa-chevron-left p-2&quot;]</value>
+      <webElementGuid>a314ba7b-7b8e-4257-8148-efe0194d1e14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapwrap']/div[2]/div[2]/div[2]/button/i</value>
+      <webElementGuid>963f08ba-30d9-495d-a5b0-9b5b3b3107ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>3d464e99-46e5-4d28-8d2d-ebf5218a85ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

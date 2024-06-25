@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_3,00</name>
+   <tag></tag>
+   <elementGuidId>e268d9ab-3fb4-4c27-bc23-10759b0e530d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.o_list_number.text-end</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='a'])[15]/following::td[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ce09a354-2890-4afe-a974-9a54f71aa015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_list_number text-end</value>
+      <webElementGuid>3993a3f3-2984-4c22-a355-211b20a16f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip</name>
+      <type>Main</type>
+      <value>score_dosen</value>
+      <webElementGuid>89bbe2a8-4b42-4764-8432-8af29a522305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3,00</value>
+      <webElementGuid>557389e2-6e6f-47dc-9280-7abfe7fa4647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_editable d-flex flex-column o_form_saved&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative clearfix&quot;]/div[@class=&quot;o_notebook d-flex w-100 horizontal flex-column&quot;]/div[@class=&quot;o_notebook_content tab-content&quot;]/div[@class=&quot;tab-pane active&quot;]/div[@class=&quot;o_field_widget o_field_one2many&quot;]/div[@class=&quot;o_field_x2many o_field_x2many_list&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped&quot;]/tfoot[@class=&quot;o_list_footer cursor-default&quot;]/tr[1]/td[@class=&quot;o_list_number text-end&quot;]</value>
+      <webElementGuid>b7c199a3-fb9a-4e96-9815-e4a10978f3ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a'])[15]/following::td[10]</value>
+      <webElementGuid>c179ffa6-a093-42bc-986c-4921efb5a530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teks Gratis'])[5]/following::td[11]</value>
+      <webElementGuid>232f8c10-1e30-4077-af02-14636216724a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='score_dosen'])[1]/preceding::td[5]</value>
+      <webElementGuid>c9626f97-edc5-4039-8a18-5fea0cac7328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='esc'])[1]/preceding::td[5]</value>
+      <webElementGuid>f653286d-cf36-4d42-ba46-6bafec3cce25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tfoot/tr/td[5]</value>
+      <webElementGuid>5c66043b-2ad4-4a04-bf65-0358351e92cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '3,00' or . = '3,00')]</value>
+      <webElementGuid>85e5ba33-5e47-4de6-bc53-f34851ec9753</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

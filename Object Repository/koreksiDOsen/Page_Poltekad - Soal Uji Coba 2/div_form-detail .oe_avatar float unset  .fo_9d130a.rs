@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_form-detail .oe_avatar float unset  .fo_9d130a</name>
+   <tag></tag>
+   <elementGuidId>07e1f937-6a45-4306-9140-0d8596785ec4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o_form_nosheet.form-detail.o_form_editable.d-block.o_form_dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog_3']/div/div/div/main/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79767cbf-9106-42a4-ba06-081d3775b46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_form_nosheet form-detail o_form_editable d-block o_form_dirty</value>
+      <webElementGuid>891c6634-7421-416c-8b27-0d00d65721bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> .form-detail .oe_avatar{ float: unset; } .form-detail .img{ max-width: 100%!important; max-height: 100%!important; } PertanyaanPertanyaanSebutkan ikrar ketiga Sumpah Pemuda yang berkaitan dengan keberadaan Bahasa Indonesia! Dibuat pada01/03/2024 21:32:18JenisTeksBobot3,00JawabanTeksbahasaImageKunci JawabanKami putra dan putri Indonesia menjunjung bahasa persatuan bahasa indonesiaPenilaianNilai Dosen UtamaNilai Dosen CadanganSkor Akhir2,50</value>
+      <webElementGuid>bca151f2-1cb2-4cb3-8174-17bfb6b113dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog_3&quot;)/div[@class=&quot;modal d-block o_technical_modal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content o_form_view ui-draggable&quot;]/main[@class=&quot;modal-body p-0&quot;]/div[@class=&quot;o_form_nosheet form-detail o_form_editable d-block o_form_dirty&quot;]</value>
+      <webElementGuid>8b3aa368-7548-45b9-874c-a2246198dfa6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog_3']/div/div/div/main/div</value>
+      <webElementGuid>26addfb7-f4d7-4a19-b1c0-a5c42e2c5e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buang'])[1]/following::div[1]</value>
+      <webElementGuid>b2a5d7b7-940d-4ead-b9ed-369e44e611b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::div[1]</value>
+      <webElementGuid>d1734e8b-bcef-43c0-882c-7c999fbd1c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>853b2215-1435-4e04-b2b0-b16b45c1f4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' .form-detail .oe_avatar{ float: unset; } .form-detail .img{ max-width: 100%!important; max-height: 100%!important; } PertanyaanPertanyaanSebutkan ikrar ketiga Sumpah Pemuda yang berkaitan dengan keberadaan Bahasa Indonesia! Dibuat pada01/03/2024 21:32:18JenisTeksBobot3,00JawabanTeksbahasaImageKunci JawabanKami putra dan putri Indonesia menjunjung bahasa persatuan bahasa indonesiaPenilaianNilai Dosen UtamaNilai Dosen CadanganSkor Akhir2,50' or . = ' .form-detail .oe_avatar{ float: unset; } .form-detail .img{ max-width: 100%!important; max-height: 100%!important; } PertanyaanPertanyaanSebutkan ikrar ketiga Sumpah Pemuda yang berkaitan dengan keberadaan Bahasa Indonesia! Dibuat pada01/03/2024 21:32:18JenisTeksBobot3,00JawabanTeksbahasaImageKunci JawabanKami putra dan putri Indonesia menjunjung bahasa persatuan bahasa indonesiaPenilaianNilai Dosen UtamaNilai Dosen CadanganSkor Akhir2,50')]</value>
+      <webElementGuid>66cfec0a-6408-4559-b0b9-c1bb8b99982b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

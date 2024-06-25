@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_28022024 133159</name>
+   <tag></tag>
+   <elementGuidId>061b9fbb-7ab3-4ab3-a5dc-e0b2236cf638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@name='create_date'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a70d4a6a-e14a-42f4-81a7-efedf1194595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_data_cell cursor-pointer o_field_cell o_readonly_modifier</value>
+      <webElementGuid>d5a48137-ac5b-4b34-8acc-54483b6faada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tooltip-delay</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>e2bd2fae-c067-4c80-abaf-16660be9391d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d25f3e22-7298-430b-aa52-d1dab0c8fccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>create_date</value>
+      <webElementGuid>822c1ce9-3454-4a7b-bc40-04afc5b93858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28/02/2024 13:31:59</value>
+      <webElementGuid>677e359e-09cb-4bc1-88e4-6990865d3575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_list_view&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_grouped&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row text-muted&quot;]/td[@class=&quot;o_data_cell cursor-pointer o_field_cell o_readonly_modifier&quot;]</value>
+      <webElementGuid>86155a59-9ac5-4aa9-8cd8-caac36e98606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//td[@name='create_date'])[4]</value>
+      <webElementGuid>05470699-9e9f-40de-b7e7-e530a7849d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/following::td[2]</value>
+      <webElementGuid>a46af7a8-cbd6-41f5-acce-a6df391b0078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soal Uji Coba Sistem'])[3]/following::td[7]</value>
+      <webElementGuid>891cfa71-8648-4b57-a850-018bbeb1159e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soal Uji Coba Sistem'])[4]/preceding::td[1]</value>
+      <webElementGuid>32e67484-f4ba-472f-96fe-3900b5077583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c49d22e6-b73c-4b43-b736-d08e2345db03'])[1]/preceding::td[2]</value>
+      <webElementGuid>d43610f8-3e30-40b9-9c52-3410e5e05434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='28/02/2024 13:31:59']/parent::*</value>
+      <webElementGuid>511f83a2-8d64-4449-992d-a406c1f3db35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]</value>
+      <webElementGuid>a03ab7c3-334f-4178-8cf3-c8f4e3789760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@name = 'create_date' and (text() = '28/02/2024 13:31:59' or . = '28/02/2024 13:31:59')]</value>
+      <webElementGuid>0db9174a-6ea6-4224-9f00-d00016ce17fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

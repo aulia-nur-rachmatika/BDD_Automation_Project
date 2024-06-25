@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilihan</name>
+   <tag></tag>
+   <elementGuidId>fb56ee29-7de5-43f5-8adf-7a1f2d711a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;title&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='# Questions Randomly Picked'])[1]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5623d68f-d238-4a2f-8136-f2b2f94585e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilihan</value>
+      <webElementGuid>11568c91-1f7c-4dcd-8461-ce28e15c587a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_survey_form o_form_editable d-flex flex-column o_form_saved&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative clearfix&quot;]/div[@class=&quot;o_notebook d-flex w-100 horizontal flex-column&quot;]/div[@class=&quot;o_notebook_content tab-content&quot;]/div[@class=&quot;tab-pane active&quot;]/div[@class=&quot;o_field_widget o_field_question_page_one2many o_field_one2many&quot;]/div[@class=&quot;o_field_x2many o_field_x2many_list&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped o_section_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row fw-bold o_row_draggable o_is_section&quot;]/td[@class=&quot;o_data_cell cursor-pointer o_field_cell o_list_char o_survey_description_page_cell o_required_modifier&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_survey_description_page&quot;]/span[1]</value>
+      <webElementGuid>12559020-26ce-4371-8e1c-77ae3ea9629c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# Questions Randomly Picked'])[1]/following::span[3]</value>
+      <webElementGuid>baf5bdf8-2857-484b-bfa5-1cc8892f026d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bobot'])[1]/following::span[5]</value>
+      <webElementGuid>29876a7e-0cc0-4383-8b69-c6b2bcd3ac18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilihan ganda: hanya satu jawaban'])[1]/preceding::span[3]</value>
+      <webElementGuid>6e2a01ce-ea9c-4ed6-8a01-4087860196b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selain sebagai bahasa negara dan bahasa nasional, bahasa Indonesia mnejadi penting karena...'])[1]/preceding::span[4]</value>
+      <webElementGuid>471b8cd3-6c92-49d1-959c-f1e7a0189e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilihan']/parent::*</value>
+      <webElementGuid>06184511-47e5-47fa-93f8-65f6c203f2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/span</value>
+      <webElementGuid>4505fb7e-7713-4e83-b4cf-ebeecd3386aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilihan' or . = 'Pilihan')]</value>
+      <webElementGuid>8d9f8fa7-b694-4750-9d21-691df49037e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

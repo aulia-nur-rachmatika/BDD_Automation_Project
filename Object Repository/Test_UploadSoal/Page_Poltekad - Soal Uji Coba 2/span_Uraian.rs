@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Uraian</name>
+   <tag></tag>
+   <elementGuidId>66ef18e3-dde1-46eb-b0be-aa01145df541</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.o_data_row.fw-bold.o_row_draggable.o_is_section > td[name=&quot;title&quot;] > div[name=&quot;title&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotak Teks Baris Tunggal'])[7]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c27c813-eb1f-437a-9976-016252ede395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uraian</value>
+      <webElementGuid>9de90ba4-c2e2-4fc0-9fc1-2de471350c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_survey_form o_form_editable d-flex flex-column o_form_saved&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative clearfix&quot;]/div[@class=&quot;o_notebook d-flex w-100 horizontal flex-column&quot;]/div[@class=&quot;o_notebook_content tab-content&quot;]/div[@class=&quot;tab-pane active&quot;]/div[@class=&quot;o_field_widget o_field_question_page_one2many o_field_one2many&quot;]/div[@class=&quot;o_field_x2many o_field_x2many_list&quot;]/div[@class=&quot;o_list_renderer o_renderer table-responsive&quot;]/table[@class=&quot;o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped o_section_list_view&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[@class=&quot;o_data_row fw-bold o_row_draggable o_is_section&quot;]/td[@class=&quot;o_data_cell cursor-pointer o_field_cell o_list_char o_survey_description_page_cell o_required_modifier&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_survey_description_page&quot;]/span[1]</value>
+      <webElementGuid>76c4c564-16a2-4a04-8e94-0b919799e984</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotak Teks Baris Tunggal'])[7]/following::span[2]</value>
+      <webElementGuid>03d9b77a-8c79-4f89-9c4a-ba261520d3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotak Teks Baris Tunggal'])[6]/following::span[4]</value>
+      <webElementGuid>7d9a5f6e-a50f-41d0-9d73-c840a5251c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa bahasa Indonesia sangat penting di negera kita?'])[1]/preceding::span[2]</value>
+      <webElementGuid>c57cb783-ee01-4d90-8ddb-835a9c096353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotak Teks Beberapa Baris'])[1]/preceding::span[3]</value>
+      <webElementGuid>5a277dae-f867-4cbd-81d9-a3a0c06fce78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uraian']/parent::*</value>
+      <webElementGuid>24b85eeb-f620-48ee-9146-4596a4939c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/div/span</value>
+      <webElementGuid>c553a024-23c1-4684-a39c-89b5e1f212db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Uraian' or . = 'Uraian')]</value>
+      <webElementGuid>abaf497c-a1a4-4ca9-ada8-fc99c066132e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

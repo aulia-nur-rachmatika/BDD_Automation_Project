@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gambar Didukung</name>
+   <tag></tag>
+   <elementGuidId>195cc92e-bd10-44d2-b2f3-cc39559d9682</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='keterangan_107708']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af0fa3ef-8b1b-4ad3-b400-2b886f082312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-success</value>
+      <webElementGuid>b9c868ae-0133-44b9-94d7-e0d24b244b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Gambar Didukung</value>
+      <webElementGuid>443ee663-595b-4779-98ee-a921f6a3a2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;keterangan_107708&quot;)/span[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>2e101841-a45d-4d21-9eb8-5163b23c05ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='keterangan_107708']/span</value>
+      <webElementGuid>0fa8071a-19a0-4dde-a033-d333b2737f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampirkan Gambar'])[1]/following::span[1]</value>
+      <webElementGuid>74d0a261-1981-4ed9-8875-0e7e043caa4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampirkan Gambar'])[2]/preceding::span[3]</value>
+      <webElementGuid>d46128f8-a541-4360-b722-ca99222e57b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gambar Didukung']/parent::*</value>
+      <webElementGuid>26b4b5a0-cacc-45a4-8bfb-37fce5380086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>c2a26da6-8536-4e2e-8b02-2a44ffa8badb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Gambar Didukung' or . = ' Gambar Didukung')]</value>
+      <webElementGuid>d1004af1-33dc-48ec-b133-3c3e98806526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Uraian</name>
+   <tag></tag>
+   <elementGuidId>ea9401e9-2f59-4fcb-bdf2-bba7c76121fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.o_survey_title.pb16.text-break</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>eccc1bb1-f1f3-4068-85ee-3c7b04e4d805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o_survey_title pb16 text-break</value>
+      <webElementGuid>1188797e-4fd5-4dc7-aa90-486709c244ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uraian</value>
+      <webElementGuid>5ab6dd16-3b3c-4af0-919a-9c2acb5c4544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapwrap&quot;)/main[1]/div[@class=&quot;wrap o_survey_wrap d-flex&quot;]/div[@class=&quot;container o_survey_form d-flex flex-column mb-5&quot;]/form[@class=&quot;d-flex flex-grow-1 align-items-center&quot;]/div[@class=&quot;o_survey_form_content w-100&quot;]/h2[@class=&quot;o_survey_title pb16 text-break&quot;]</value>
+      <webElementGuid>e3460dab-91f2-48b5-a8da-a7d065e78d9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapwrap']/main/div/div/form/div[2]/h2</value>
+      <webElementGuid>dc331149-1bcc-463a-9e66-8eb9477cc655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uraian'])[1]/following::h2[1]</value>
+      <webElementGuid>eee5174b-df7e-48e9-b4b3-082c7b0eba2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isian'])[1]/following::h2[1]</value>
+      <webElementGuid>46080ae6-a76f-4d6d-bfed-dccee7852681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampirkan Gambar'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9c303207-7f83-4cb7-915a-63ec53336ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>1db7a6b0-7efd-4d39-a884-67418322f1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Uraian' or . = 'Uraian')]</value>
+      <webElementGuid>1f93ea4c-aa38-4759-96b2-ff83fe7a0961</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

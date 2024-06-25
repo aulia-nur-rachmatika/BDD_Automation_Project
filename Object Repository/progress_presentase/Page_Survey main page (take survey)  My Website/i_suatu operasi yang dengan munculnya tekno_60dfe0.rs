@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_suatu operasi yang dengan munculnya tekno_60dfe0</name>
+   <tag></tag>
+   <elementGuidId>10503820-9d26-442d-ac14-3fdac0b79f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-circle-thin.float-end.mt-1.position-relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='107651']/div[3]/div/label/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1737ce79-b239-4b02-9132-4c604dc30122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-thin float-end mt-1 position-relative</value>
+      <webElementGuid>8c3b5a5a-c628-485b-a5c0-4ca8db647631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;107651&quot;)/div[@class=&quot;row o_survey_form_choice&quot;]/div[@class=&quot;col-lg-12 d-flex flex-wrap&quot;]/label[@class=&quot;o_survey_choice_btn me-2 mb-2 py-1 px-3 rounded&quot;]/i[@class=&quot;fa fa-circle-thin float-end mt-1 position-relative&quot;]</value>
+      <webElementGuid>30373d2e-a782-40d3-8fbd-add8c1178118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='107651']/div[3]/div/label/i[2]</value>
+      <webElementGuid>cd234eab-8163-4251-a1a1-66a26bb7906e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>0641c161-897a-4745-b8d2-ef9b31fdcca9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Des_fa fa-check primary</name>
+   <tag></tag>
+   <elementGuidId>a2559d26-ef89-4c78-9925-576759250971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-check.primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2026b22b-cce0-4dfa-80de-4887fd24c983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check primary</value>
+      <webElementGuid>c8eb418d-75bc-4f64-a434-642bff59b91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;bootstrap-datetimepicker-widget dropdown-menu usetwentyfour top&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;picker-switch accordion-toggle&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[1]/td[2]/a[1]/span[@class=&quot;fa fa-check primary&quot;]</value>
+      <webElementGuid>b55a0191-c40d-4206-9769-fed70999e6c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/span</value>
+      <webElementGuid>d6d2f936-afd7-493d-b108-3ed7b76ef1d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

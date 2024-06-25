@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_c49d22e6-b73c-4b43-b736-d08e2345db03</name>
+   <tag></tag>
+   <elementGuidId>7bd9e95a-d489-424d-99b6-f71ee8e5a9a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;access_token&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifikasi tanda'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4bf0d141-3d64-4a18-b531-c281018e43d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>c49d22e6-b73c-4b43-b736-d08e2345db03</value>
+      <webElementGuid>5ff8a734-441a-4651-b56f-8a00c3c00a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_editable d-flex flex-column o_form_saved&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative clearfix&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell o_wrap_input flex-grow-1 flex-sm-grow-0 text-break&quot;]/div[@class=&quot;o_field_widget o_readonly_modifier o_required_modifier o_field_char&quot;]/span[1]</value>
+      <webElementGuid>f43333b5-e28e-48be-be91-c243daf95b9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifikasi tanda'])[1]/following::span[1]</value>
+      <webElementGuid>cedc0853-9616-4bc0-be55-8aa83f289b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tes Input'])[1]/following::span[1]</value>
+      <webElementGuid>4c7ec997-2615-48ee-9f14-57042ad67e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Penilaian'])[1]/preceding::span[1]</value>
+      <webElementGuid>e82bc3c8-d879-4a55-a9ef-ed9fdc9239b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/preceding::span[1]</value>
+      <webElementGuid>86d6dfb9-6f22-4a59-b0fd-df3130ad4144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='c49d22e6-b73c-4b43-b736-d08e2345db03']/parent::*</value>
+      <webElementGuid>2309ce9f-032e-471f-9a5e-f32312d76d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/span</value>
+      <webElementGuid>98312ec3-bae3-4731-be9a-b397f7276f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'c49d22e6-b73c-4b43-b736-d08e2345db03' or . = 'c49d22e6-b73c-4b43-b736-d08e2345db03')]</value>
+      <webElementGuid>b5397a86-1d62-4a4b-9da2-11dc7ed9b22b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

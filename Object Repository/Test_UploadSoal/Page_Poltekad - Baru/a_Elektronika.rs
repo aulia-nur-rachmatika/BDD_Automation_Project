@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Elektronika</name>
+   <tag></tag>
+   <elementGuidId>0008d135-2bf7-4701-888b-03b3af56b936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.ui-menu-item-wrapper.text-truncate.ui-state-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jurusan'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5af87129-f310-4b06-8316-b3d67f894d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d7b853a8-3c87-4d91-bc6d-273b790e1f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ui-menu-item-wrapper text-truncate ui-state-active</value>
+      <webElementGuid>f790b4da-86ef-4090-97c4-ec9a20fc84a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elektronika</value>
+      <webElementGuid>257cf318-ffb0-461c-9559-5dbaac9122b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client mk_sidebar_type_large&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_action o_view_controller o_form_view&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_survey_form o_form_editable d-flex flex-column o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative clearfix&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell o_wrap_input flex-grow-1 flex-sm-grow-0 text-break&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_many2one&quot;]/div[@class=&quot;o_field_many2one_selection&quot;]/div[@class=&quot;o_input_dropdown&quot;]/div[@class=&quot;o-autocomplete dropdown&quot;]/ul[@class=&quot;o-autocomplete--dropdown-menu dropdown-menu ui-widget ui-autocomplete show&quot;]/li[@class=&quot;o-autocomplete--dropdown-item ui-menu-item&quot;]/a[@class=&quot;dropdown-item ui-menu-item-wrapper text-truncate ui-state-active&quot;]</value>
+      <webElementGuid>79533a42-3a4a-4f34-8025-cb390a62bbae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jurusan'])[1]/following::a[1]</value>
+      <webElementGuid>567921b5-0ef9-4a2f-be3c-8df1f065a585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanggung Jawab'])[1]/following::a[2]</value>
+      <webElementGuid>b94a8c1d-4d19-472a-b163-d2e246bdfab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prodi'])[1]/preceding::a[5]</value>
+      <webElementGuid>94f53039-9cae-4550-a058-1cc84346e181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Kuliah'])[1]/preceding::a[6]</value>
+      <webElementGuid>73ab0770-5ceb-49d6-a180-7f9a046ebaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elektronika']/parent::*</value>
+      <webElementGuid>a828447e-5551-4d8a-b336-66789531aaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>31dc89bf-cc6a-4bbd-a3e3-f45ebaedc4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li/a</value>
+      <webElementGuid>04c2af96-e04e-4992-a6c9-25eb3a913033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Elektronika' or . = 'Elektronika')]</value>
+      <webElementGuid>9b48a95a-2319-433a-a80d-fc2170cfe22f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
